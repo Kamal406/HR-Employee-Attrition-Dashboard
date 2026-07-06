@@ -14,7 +14,7 @@ This project analyzes employee attrition patterns using HR data to identify the 
 
 ## Business Insights & Recommendations
 
-![HR Insight](HR_Insight.png)
+![HR Insight](HR_Insight2.png)
 
 ## Objective
 - Analyze employee attrition patterns.
