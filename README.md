@@ -10,11 +10,11 @@ This project analyzes employee attrition patterns using HR data to identify the 
 
 ### Main Dashboard
 
-![dashboard hr.png](dashboard hr.png)
+![dashboard hr.png](dashboard_hr.png)
 
 ### Business Insights & Recommendations
 
-![HR Insight.png](HR Insight.png)
+![HR Insight.png](HR_Insight.png)
 
 ---
 
