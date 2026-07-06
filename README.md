@@ -6,33 +6,27 @@ This project analyzes employee attrition patterns using HR data to identify the 
 
 ---
 
-## Dashboard Preview
+# HR Employee Attrition Analysis Dashboard
 
-### Main Dashboard
+## Main Dashboard
 
-![dashboard hr.png](dashboard_hr.png)
+![Dashboard](dashboard hr.png)
 
-### Business Insights & Recommendations
+## Business Insights & Recommendations
 
-![HR Insight.png](HR_Insight.png)
+![HR Insight](HR Insight.png)
 
----
-
-## Objectives
-
-* Analyze employee attrition trends.
-* Identify departments and job roles with the highest attrition rates.
-* Evaluate the impact of salary, overtime, age, and tenure on employee retention.
-* Provide business recommendations to reduce employee turnover.
-
----
+## Objective
+- Analyze employee attrition patterns.
+- Identify factors affecting employee turnover.
+- Evaluate employee demographics and behavior.
+- Provide business recommendations.
 
 ## Tools Used
-
-* Power BI
-* DAX
-* Data Visualization
-* Business Intelligence Analysis
+- Power BI
+- DAX
+- Python
+- Pandas
 
 ---
 
@@ -67,4 +61,4 @@ This project analyzes employee attrition patterns using HR data to identify the 
 
 ## Author
 
-Created by **Youssef** using **Power BI**.
+Created by **Kamal** using **Power BI**.
